@@ -5,6 +5,7 @@ A simple React application, rendered on the edge using server-side rendering. [r
 ## How to use
 
 1. [Install Wrangler](https://workers.cloudflare.com/docs/quickstart/cli-setup/)
-2. Grab a subdomain: `wrangler subdomain <your_subdomain>`
-3. [Fill in your config details](https://workers.cloudflare.com/docs/quickstart/api-keys/) in `wrangler.toml`
-4. Deploy using `wrangler publish`
+2. Generate your own version of this project: `wrangler generate my-react-app https://github.com/signalnerve/react-edge-ssr`
+3. Claim a subdomain: `wrangler subdomain <your_subdomain>`
+4. [Fill in your config details](https://workers.cloudflare.com/docs/quickstart/api-keys/) in `wrangler.toml`
+5. Deploy using `wrangler publish`
