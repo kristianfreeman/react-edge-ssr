@@ -1,0 +1,5 @@
+name = "react-edge-ssr"
+type = "webpack"
+private = false
+zone_id = ""
+account_id = ""
