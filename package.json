@@ -10,13 +10,7 @@
   "author": "Kristian Freeman <kristian@kristianfreeman.com>",
   "license": "MIT",
   "devDependencies": {
-    "@babel/core": "^7.4.5",
-    "@babel/preset-env": "^7.4.5",
-    "@babel/preset-react": "^7.0.0",
-    "babel-loader": "^8.0.6",
-    "babel-plugin-transform-runtime": "^6.23.0",
-    "husky": "^2.1.0",
-    "prettier": "^1.17.0"
+    "lodash": ">=4.17.13"
   },
   "husky": {
     "hooks": {
