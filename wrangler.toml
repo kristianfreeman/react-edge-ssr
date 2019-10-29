@@ -1,5 +1,9 @@
 name = "react-edge-ssr"
 type = "webpack"
-private = false
+workers_dev = true
 zone_id = ""
 account_id = ""
+
+[env.staging]
+
+[env.production]
