@@ -6,4 +6,3 @@ pkg/
 wasm-pack.log
 worker/
 node_modules/
-wrangler.toml
