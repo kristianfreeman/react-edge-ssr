@@ -10,7 +10,7 @@
   "author": "Kristian Freeman <kristian@kristianfreeman.com>",
   "license": "MIT",
   "devDependencies": {
-    "lodash": ">=4.17.13"
+    "lodash": ">=4.17.19"
   },
   "husky": {
     "hooks": {
