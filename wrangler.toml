@@ -3,6 +3,7 @@ type = "webpack"
 workers_dev = true
 zone_id = ""
 account_id = ""
+webpack_config = "webpack.config.js"
 
 [env.staging]
 
